@@ -8,7 +8,7 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
 The Jupyter notebook file includes 3 parts;
 
-a-) Data Cleaning and Wrangling:
+a-) Exploratory Data Analysis:
 
 b-) Reducing Features and Inferential Statistics:
 
