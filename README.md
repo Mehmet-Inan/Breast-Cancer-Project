@@ -20,7 +20,7 @@ Dataset Information:
 11.	fractal dimension ("coastline approximation" - 1)
 
 
-The Jupyter notebook file includes 3 parts;
+### The Jupyter notebook file includes 3 parts;
 
 a-) Exploratory Data Analysis
 
