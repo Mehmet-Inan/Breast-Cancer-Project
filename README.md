@@ -1,4 +1,4 @@
-Breast Cancer Data
+__## Breast Cancer Data ##__
 
 This is my personal project in which I explore if a given cancer cell is benign or malignant to be able to treat the cancer cells in a timely manner, build and train models.
 
