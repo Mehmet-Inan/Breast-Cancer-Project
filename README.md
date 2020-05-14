@@ -21,15 +21,10 @@ Attribute Information:
 
 
 
-### NAVIGATION:
+### The Jupyter notebook file includes 3 parts;
 
-REPORT: 
+a-) Data Cleaning and Wrangling:
 
+b-) Reducing Features and Inferential Statistics:
 
-PROJECT: The Jupyter notebook file includes 3 parts;
-
-a-) Data Cleaning and Wrangling
-
-b-) Reducing Features and Inferential Statistics
-
-c-) Machine Learning
+c-) Machine Learning:
